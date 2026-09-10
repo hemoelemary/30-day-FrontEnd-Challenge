@@ -36,6 +36,6 @@ A favicon linked in the head section.
 
 Day 1 Submitted by:
 <a href='https://github.com/hemoelemary/30-day-FrontEnd-Challenge/tree/main/MohamedElemary/day1'>Mohamed Elemary</a>
-<a href=''>Mohamed Khamis</a>
+<a href='https://github.com/hemoelemary/30-day-FrontEnd-Challenge/tree/main/Mohamed%20Khamis/day1'>Mohamed Khamis</a>
 <a href=''>Hassan Tuffaha</a>
 
