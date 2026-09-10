@@ -1,6 +1,7 @@
 # 30-day-FrontEnd-Challenge
 Challenge with my friends to solve roadmap.sh front challenges
 # DAY 1 DONE
+> Single Page CV
 <img src='https://assets.roadmap.sh/guest/resume-template-zyl70.png'/>
 Key requirements for this project:
   
