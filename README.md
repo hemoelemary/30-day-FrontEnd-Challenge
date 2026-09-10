@@ -28,11 +28,13 @@ SEO meta tags in the head section.
 <li>
 OG tags for better social media sharing.
 </li>
+<li>
+A favicon linked in the head section.
+</li>
 </ol>
 
 Day 1 Submitted by:
 Mohamed Elemary
 Mohamed Khamis
 Hassan Tuffaha
-A favicon linked in the head section.
 
