@@ -35,7 +35,7 @@ A favicon linked in the head section.
 </ol>
 
 Day 1 Submitted by:
-Mohamed Elemary
-Mohamed Khamis
-Hassan Tuffaha
+<a href='https://github.com/hemoelemary/30-day-FrontEnd-Challenge/tree/main/MohamedElemary/day1'>Mohamed Elemary</a>
+<a href=''>Mohamed Khamis</a>
+<a href=''>Hassan Tuffaha</a>
 
